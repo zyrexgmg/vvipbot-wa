@@ -6,7 +6,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 BOT 」
 
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
